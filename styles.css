@@ -60,6 +60,21 @@
     text-align:center;
 }
 
+.attribution {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #000;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+}
+
 @media screen and (max-width: 375px){
     .card{
       display: flex;
