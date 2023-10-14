@@ -34,7 +34,7 @@ In this folder, I have added Desktop and Mobile Screenshots
 
 ### What I learned
 
-It is helping me with my coding skills.
+It is helping me with my coding skills. I have also learned that ensuring that CSS styles with the HTML tags are there simultaneously improves readability. This has also helped me to improve my code refactoring process. Also, through this project, I ensured that the code structure was readable.
 
 ## Author
 - Website - Priyanka Roy Choudhury (I am also publishing my UI/UX Design Portfolio): https://priyankaroychoudhury.framer.website/
